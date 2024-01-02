@@ -1,7 +1,7 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2024-01-01', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -31,9 +31,6 @@ const CONFIG = {
 
   HEO_INFOCARD_GREETINGS: [
     '你好！我们是',
-    '🔍 专注于 Web3、AI 和 Web 开发技术的工作室',
-    '🤝 提供创新的区块链应用开发、智能算法模型和现代 Web 应用程序解决方案',
-    '🏠 致力于合作开发创新的数字化产品',
   ],
   HEO_INFO_CARD_URL: '', // 个人资料底部按钮链接
 
